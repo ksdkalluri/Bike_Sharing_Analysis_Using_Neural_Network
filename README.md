@@ -1,12 +1,16 @@
 # Bike_Sharing_Analysis_Using_Neural_Network
 ### Instructions
-Download the project materials from this GitHub repository. You can either download the repository with git clone. 
+Download the project materials from this GitHub repository. You can either download the repository with git clone or download as zip formate. 
 
-cd into the Bike_Sharing_Analysis_Using_Neural_Network.
+_`cd into the Bike_Sharing_Analysis_Using_Neural_Network.`_
 
 #### Download anaconda or miniconda.
 
+
 __Create a new conda environment__
+
+
+In Terminal window
 
 _`conda create --name dlnd python=3`_
 
